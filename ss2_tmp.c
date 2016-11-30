@@ -105,11 +105,6 @@
 				end
 		end
 
-	always @ (*)
-		begin 
-
-		end
-
 endmodule
 
 //4bit 的 BCD 码至 7 段 LED 数码管译码器模块 
